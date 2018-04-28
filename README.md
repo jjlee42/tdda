@@ -83,7 +83,7 @@ The package also has doc strings, which you can see with:
 
 Resources on these topics include:
 
-  * TDDA Blog: http//www.tdda.info
+  * TDDA Blog: http://www.tdda.info/
   * Quick Reference Guide ("Cheatsheet"): http://www.tdda.info/pdf/tdda-quickref.pdf
   * Full documentation: http://tdda.readthedocs.io
   * General Notes on Constraints and Assertions: http://www.tdda.info/constraints-and-assertions
